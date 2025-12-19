@@ -1,0 +1,9 @@
+{
+  "name": "Notstudio Nexus",
+  "description": "The unified operating system for Notstudio. A comprehensive AI suite for Strategy, Creative, Content, and Management teams to accelerate agency workflows from insight to impact.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
